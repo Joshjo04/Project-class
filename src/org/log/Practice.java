@@ -6,5 +6,8 @@ public class Practice {
 
 		String s = "JOSH";
 		System.out.println(s);
+		boolean contains = s.contains("j");
+		System.out.println(contains);
+		
 	}
 }
