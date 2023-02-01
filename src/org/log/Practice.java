@@ -6,5 +6,6 @@ public class Practice {
 
 		String s = "JOSH";
 		System.out.println(s);
+		System.out.println(s.isEmpty());
 	}
 }
